@@ -1,0 +1,1509 @@
+{
+  "cot_raw": [
+    {
+      "market": "AUST. DOLLAR (AUD)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -129457,
+      "longs": 101093,
+      "shorts": 230550,
+      "change": 36,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "NASDAQ 100 (NDX)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": 23432,
+      "longs": 78757,
+      "shorts": 55325,
+      "change": 10834,
+      "signal": "BULLISH"
+    },
+    {
+      "market": "GOLD (XAU)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": 418,
+      "longs": 1028,
+      "shorts": 610,
+      "change": -139,
+      "signal": "BULLISH"
+    },
+    {
+      "market": "S&P 500 (SPX)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -129414,
+      "longs": 229322,
+      "shorts": 358736,
+      "change": 13398,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "EURO (EUR)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -2487,
+      "longs": 9138,
+      "shorts": 11625,
+      "change": -1843,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "BRITISH POUND (GBP)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -2487,
+      "longs": 9138,
+      "shorts": 11625,
+      "change": -1843,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "JAPANESE YEN (JPY)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": 1872,
+      "longs": 4645,
+      "shorts": 2773,
+      "change": -22,
+      "signal": "BULLISH"
+    },
+    {
+      "market": "SWISS FRANC (CHF)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -16589,
+      "longs": 29482,
+      "shorts": 46071,
+      "change": 3228,
+      "signal": "BEARISH"
+    }
+  ],
+  "fed_rate": 3.88,
+  "fed_rate_date": "2026-11-05",
+  "10y_yield": 4.84,
+  "10y_yield_date": "2026-11-05",
+  "2y_yield": 4.46,
+  "2y_yield_date": "2026-11-05",
+  "cpi": 336.298,
+  "cpi_date": "2026-09-01",
+  "gdp": 33010.036,
+  "gdp_date": "2026-07-01",
+  "unrate": 4.1,
+  "unrate_date": "2026-10-01",
+  "housing": 1221.0,
+  "housing_date": "2026-09-01",
+  "vix": 28.18,
+  "vix_date": "2026-11-05",
+  "dxy": 121.6656,
+  "dxy_date": "2026-10-30",
+  "indices": {
+    "SPX500": {
+      "price": 735.29,
+      "change": 0.3124
+    },
+    "NAS100": {
+      "price": 656.1,
+      "change": 1.3987
+    },
+    "DOW30": {
+      "price": 512.22,
+      "change": -0.3986
+    },
+    "GOLD_ETF": {
+      "price": 372.52,
+      "change": -0.791
+    }
+  },
+  "news": [
+    {
+      "headline": "Midterm results may add uncertainty to the Fed\u2019 next rate decision \u2014 here are 5 money moves to consider before December",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/midterm-results-may-add-uncertainty-135000425.html?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794145800,
+      "summary": "Just as timing the market rarely pays off, betting on the Federal Reserve can be risky.",
+      "time_ago": "12m ago"
+    },
+    {
+      "headline": "The Best Energy Stock to Buy With Oil Near $105 Isn't an Oil Producer",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/the-best-energy-stock-to-buy-with-oil-near-105-isn/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794144900,
+      "summary": "Oil prices are high today, but also highly volatile; you can sidestep the commodity risk with this high-yield energy investment.",
+      "time_ago": "27m ago"
+    },
+    {
+      "headline": "Prediction: This Will Be the Best-Performing AI Stock of 2027",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/prediction-this-will-be-the-best-performing-ai-sto/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794144300,
+      "summary": "Micron is well positioned to be a top 2027 stock.",
+      "time_ago": "37m ago"
+    },
+    {
+      "headline": "Trade Desk Fell 3% While AppLovin Soared 31%. Here\u2019s What Its November 9 Report Has to Prove",
+      "source": "Yahoo Finance",
+      "url": "https://www.tikr.com/blog/trade-desk-fell-3-while-applovin-soared-31-heres-what-its-november-9-report-has-to-prove?ref=yahoofinance&tlnk=yf-261108-rh264r3w&.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794142916,
+      "summary": "Key TakeawaysAppLovin closed up 31% on Thursday after a record quarter and Magnite rose as much as 17%, while The Trade Desk fell 3% ahead of its own report on Monday, Nov. 9.",
+      "time_ago": "1h ago"
+    },
+    {
+      "headline": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+      "category": "MACRO",
+      "datetime": 1794142801,
+      "summary": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
+      "time_ago": "1h ago"
+    },
+    {
+      "headline": "Brands are sponsoring IRL communities. Some experts say that could spell their end",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/08/brand-sponsorship-local-communities.html",
+      "category": "MACRO",
+      "datetime": 1794142801,
+      "summary": "Brands are sponsoring book clubs and other local groups, giving organizers new revenue while raising questions about trust and community.",
+      "time_ago": "1h ago"
+    },
+    {
+      "headline": "Binance France emails announce closure of its users\u2019 accounts on Dec. 31",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "CRYPTO",
+      "datetime": 1794142671,
+      "summary": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+      "time_ago": "1h ago"
+    },
+    {
+      "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "category": "CRYPTO",
+      "datetime": 1794142559,
+      "summary": "",
+      "time_ago": "1h ago"
+    },
+    {
+      "headline": "Want to Become a Stock Market Millionaire? $250 a Month in This ETF Could Get You There.",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/become-market-millionaire-250-month-voo-etf/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794139860,
+      "summary": "This could be the anchor of a great stock portfolio.",
+      "time_ago": "1h ago"
+    },
+    {
+      "headline": "Here's Why I'm Still Investing in the S&P 500, Even if a Bear Market Is Coming",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/heres-why-im-still-investing-in-the-sp-500-even-if/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794139080,
+      "summary": "Buying before a market decline feels awful. But waiting indefinitely carries its own risks.",
+      "time_ago": "2h ago"
+    },
+    {
+      "headline": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-wait-bofa-maps-115701295.html?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794139021,
+      "summary": "Investing.com -- Bank of America sees a potential recovery in semiconductor stocks in early 2027 as improving U.S. policy clarity, corporate buybacks and relatively attractive valuations help ease con",
+      "time_ago": "2h ago"
+    },
+    {
+      "headline": "Wall Street's Biggest Bubble Looks Ready to Burst, and I Don't Mean AI or Quantum Computing",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/wall-street-biggest-bubble-looks-ready-to-burst-not-ai-or-quantum-computing/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794138962,
+      "summary": "A $1.5 trillion powder keg can upend the stock market\u2019s four-year rally.",
+      "time_ago": "2h ago"
+    },
+    {
+      "headline": "3 Canadian Quality Stocks With ROE Over 20%",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-quality-stocks-roe-111318698.html?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794136398,
+      "summary": "Higher interest rates are expected to stick around for years, which keeps cheap borrowing off the table and puts weak balance sheets under pressure. That backdrop pushes careful investors toward Canad",
+      "time_ago": "2h ago"
+    },
+    {
+      "headline": "Ring Energy Q3 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-ring-energy-q3-earnings-call-highlights-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794132850,
+      "summary": "Ring Energy (NYSEAMERICAN:REI) increased production and reduced debt in the third quarter of 2026, while accelerating spending on longer horizontal wells and infrastructure ahead of a planned shift to",
+      "time_ago": "3h ago"
+    },
+    {
+      "headline": "OceanaGold Q3 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-oceanagold-q3-earnings-call-highlights-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794132849,
+      "summary": "OceanaGold (TSE:OGC) expects its strongest gold production quarter of 2026 in the final three months of the year, as higher-grade ore at its Haile mine and increased underground mining at Didipio help",
+      "time_ago": "3h ago"
+    },
+    {
+      "headline": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+      "category": "MACRO",
+      "datetime": 1794132253,
+      "summary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran\u00a0\u00a0Reuters",
+      "time_ago": "3h ago"
+    },
+    {
+      "headline": "Amsterdam protesters break into Microsoft data center construction site: Report",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "CRYPTO",
+      "datetime": 1794131328,
+      "summary": "Dutch police said they detained 150-200 people for trespassing during the protest.",
+      "time_ago": "4h ago"
+    },
+    {
+      "headline": "Billionaires Warren Buffett and Bill Ackman Deliver a Similar, Shocking Warning to Wall Street. Here\u2019s 1 Thing Investors Should Do Now.",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/billionaires-warren-buffett-and-bill-ackman-deliver-a-similar-shocking-warning-to-wall-street-here-s-1-thing-investors-should-do-now/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794130502,
+      "summary": "The billionaires have observed a particular type of behavior among certain investors.",
+      "time_ago": "4h ago"
+    },
+    {
+      "headline": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/got-5000-2-growth-stocks-building-the-software-bac/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794130020,
+      "summary": "Chips get the headlines, but Microsoft and CrowdStrike sell the software that puts AI to work and keeps it secure.",
+      "time_ago": "4h ago"
+    },
+    {
+      "headline": "Donald Trump Claims He'll Become \"Mr. Veto\" After Midterm Elections, but the Results Put the President and Wall Street in a Precarious Situation",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/11/08/donald-trump-become-mr-veto-after-midterm-elections-results-put-president-wall-street-in-precarious-situation/?.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794129962,
+      "summary": "A surprise from the midterm elections may fundamentally alter the artificial intelligence (AI) regulatory landscape.",
+      "time_ago": "4h ago"
+    },
+    {
+      "headline": "What Triple Flag Precious Metals (TFPM) Said on Its Q3 Earnings Call",
+      "source": "Yahoo Finance",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-triple-flag-precious-metals-tfpm-said-on-its-q3-earnings-call-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "category": "COMMODITIES / INDICES",
+      "datetime": 1794125667,
+      "summary": "Triple Flag Precious Metals (NYSE:TFPM) reported higher third-quarter revenue and cash flow and said it remains on track to finish 2026 in the upper half of its production guidance, as contributions f",
+      "time_ago": "5h ago"
+    },
+    {
+      "headline": "Binance\u2019s  finance chief Kaiser Ng to leave company, report says",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "CRYPTO",
+      "datetime": 1794125576,
+      "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
+      "time_ago": "5h ago"
+    },
+    {
+      "headline": "Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
+      "category": "MACRO",
+      "datetime": 1794115440,
+      "summary": "Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says\u00a0\u00a0Reuters",
+      "time_ago": "8h ago"
+    },
+    {
+      "headline": "Iran executes three men over armed unrest during January protests - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5",
+      "category": "MACRO",
+      "datetime": 1794112860,
+      "summary": "Iran executes three men over armed unrest during January protests\u00a0\u00a0Reuters",
+      "time_ago": "9h ago"
+    },
+    {
+      "headline": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+      "category": "MACRO",
+      "datetime": 1794091753,
+      "summary": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government\u00a0\u00a0Reuters",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
+      "category": "MACRO",
+      "datetime": 1794091738,
+      "summary": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital\u00a0\u00a0Reuters",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "Explosions heard in areas in southern Iran, Iranian media report - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
+      "category": "MACRO",
+      "datetime": 1794088634,
+      "summary": "Explosions heard in areas in southern Iran, Iranian media report\u00a0\u00a0Reuters",
+      "time_ago": "16h ago"
+    },
+    {
+      "headline": "US military says it disabled cargo vessel in Gulf of Oman - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5",
+      "category": "MACRO",
+      "datetime": 1794086520,
+      "summary": "US military says it disabled cargo vessel in Gulf of Oman\u00a0\u00a0Reuters",
+      "time_ago": "16h ago"
+    },
+    {
+      "headline": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "category": "MACRO",
+      "datetime": 1794083297,
+      "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+      "time_ago": "17h ago"
+    },
+    {
+      "headline": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "category": "CRYPTO",
+      "datetime": 1794078796,
+      "summary": "",
+      "time_ago": "18h ago"
+    },
+    {
+      "headline": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "category": "MACRO",
+      "datetime": 1794073876,
+      "summary": "Dave Wehner, Meta\u2019s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+      "time_ago": "20h ago"
+    },
+    {
+      "headline": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "category": "CRYPTO",
+      "datetime": 1794073006,
+      "summary": "",
+      "time_ago": "20h ago"
+    },
+    {
+      "headline": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "category": "CRYPTO",
+      "datetime": 1794070260,
+      "summary": "",
+      "time_ago": "21h ago"
+    },
+    {
+      "headline": "Syria denies plans to send troops to Yemen as Saudi military ties deepen - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5",
+      "category": "MACRO",
+      "datetime": 1794069343,
+      "summary": "Syria denies plans to send troops to Yemen as Saudi military ties deepen\u00a0\u00a0Reuters",
+      "time_ago": "21h ago"
+    },
+    {
+      "headline": "Decisive election. Dramatic stock swings. How we handled the market last week",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+      "category": "MACRO",
+      "datetime": 1794069060,
+      "summary": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting.",
+      "time_ago": "21h ago"
+    }
+  ],
+  "sentiment": {
+    "EURUSD": [
+      85.0,
+      15.0
+    ],
+    "GBPUSD": [
+      50.0,
+      50.0
+    ],
+    "USDJPY": [
+      50.0,
+      50.0
+    ],
+    "GBPJPY": [
+      50.0,
+      50.0
+    ],
+    "USDCAD": [
+      26.0,
+      74.0
+    ],
+    "EURAUD": [
+      45.0,
+      55.0
+    ],
+    "EURJPY": [
+      57.0,
+      43.0
+    ],
+    "AUDCAD": [
+      57.0,
+      43.0
+    ],
+    "AUDJPY": [
+      63.0,
+      37.0
+    ],
+    "AUDNZD": [
+      25.0,
+      75.0
+    ],
+    "AUDUSD": [
+      72.0,
+      28.0
+    ],
+    "CADJPY": [
+      72.0,
+      28.0
+    ],
+    "EURCAD": [
+      80.0,
+      20.0
+    ],
+    "EURCHF": [
+      90.0,
+      10.0
+    ],
+    "EURGBP": [
+      96.0,
+      4.0
+    ],
+    "EURHUF": [
+      1.0,
+      99.0
+    ],
+    "EURNOK": [
+      20.0,
+      80.0
+    ],
+    "EURNZD": [
+      23.0,
+      77.0
+    ],
+    "EURPLN": [
+      2.0,
+      98.0
+    ],
+    "EURSEK": [
+      0.0,
+      100.0
+    ],
+    "EURTRY": [
+      3.0,
+      97.0
+    ],
+    "GBPCAD": [
+      34.0,
+      66.0
+    ],
+    "GBPCHF": [
+      46.0,
+      54.0
+    ],
+    "NZDCAD": [
+      91.0,
+      9.0
+    ],
+    "NZDJPY": [
+      93.0,
+      7.0
+    ],
+    "NZDUSD": [
+      92.0,
+      8.0
+    ],
+    "USDCHF": [
+      70.0,
+      30.0
+    ],
+    "USDCZK": [
+      97.0,
+      3.0
+    ],
+    "USDHUF": [
+      84.0,
+      16.0
+    ],
+    "USDMXN": [
+      36.0,
+      64.0
+    ],
+    "USDNOK": [
+      100.0,
+      0.0
+    ],
+    "USDPLN": [
+      97.0,
+      3.0
+    ],
+    "USDSEK": [
+      100.0,
+      0.0
+    ],
+    "USDSGD": [
+      32.0,
+      68.0
+    ],
+    "USDTHB": [
+      91.0,
+      9.0
+    ],
+    "USDTRY": [
+      0.0,
+      100.0
+    ],
+    "USDZAR": [
+      28.0,
+      72.0
+    ],
+    "CHFJPY": [
+      55.0,
+      45.0
+    ],
+    "AUDCHF": [
+      60.0,
+      40.0
+    ],
+    "GBPNZD": [
+      10.0,
+      90.0
+    ],
+    "NZDCHF": [
+      91.0,
+      9.0
+    ],
+    "XAGUSD": [
+      59.0,
+      41.0
+    ],
+    "XAUUSD": [
+      41.0,
+      59.0
+    ],
+    "CADCHF": [
+      82.0,
+      18.0
+    ],
+    "GBPAUD": [
+      14.0,
+      86.0
+    ],
+    "SGDJPY": [
+      17.0,
+      83.0
+    ],
+    "GBPNOK": [
+      100.0,
+      0.0
+    ],
+    "EURZAR": [
+      3.0,
+      97.0
+    ],
+    "AUDSGD": [
+      52.0,
+      48.0
+    ],
+    "GBPSEK": [
+      100.0,
+      0.0
+    ],
+    "CHFSGD": [
+      34.0,
+      66.0
+    ],
+    "EURSGD": [
+      89.0,
+      11.0
+    ],
+    "GBPSGD": [
+      60.0,
+      40.0
+    ],
+    "XAUGBP": [
+      0.0,
+      100.0
+    ],
+    "NOKJPY": [
+      0.0,
+      100.0
+    ],
+    "ZARJPY": [
+      13.0,
+      87.0
+    ],
+    "USDRUB": [
+      100.0,
+      0.0
+    ],
+    "SEKJPY": [
+      100.0,
+      0.0
+    ],
+    "EURMXN": [
+      0.0,
+      100.0
+    ],
+    "XAUAUD": [
+      0.0,
+      100.0
+    ],
+    "XAUEUR": [
+      53.0,
+      47.0
+    ],
+    "XAUJPY": [
+      78.0,
+      22.0
+    ],
+    "XAUCHF": [
+      89.0,
+      11.0
+    ],
+    "NOKSEK": [
+      35.0,
+      65.0
+    ],
+    "XAGEUR": [
+      90.0,
+      10.0
+    ],
+    "XPTUSD": [
+      50.0,
+      50.0
+    ],
+    "XPDUSD": [
+      97.0,
+      3.0
+    ],
+    "USDCNH": [
+      100.0,
+      0.0
+    ],
+    "BTCUSD": [
+      74.0,
+      26.0
+    ],
+    "LTCUSD": [
+      96.0,
+      4.0
+    ],
+    "BTCJPY": [
+      100.0,
+      0.0
+    ],
+    "ETHUSD": [
+      82.0,
+      18.0
+    ],
+    "XRPUSD": [
+      95.0,
+      5.0
+    ],
+    "BCHUSD": [
+      62.0,
+      38.0
+    ],
+    "ZECUSD": [
+      100.0,
+      0.0
+    ],
+    "NEOUSD": [
+      100.0,
+      0.0
+    ],
+    "QTMUSD": [
+      100.0,
+      0.0
+    ],
+    "XLMUSD": [
+      100.0,
+      0.0
+    ],
+    "ADAUSD": [
+      100.0,
+      0.0
+    ],
+    "DOTUSD": [
+      100.0,
+      0.0
+    ],
+    "UNIUSD": [
+      100.0,
+      0.0
+    ],
+    "VETUSD": [
+      100.0,
+      0.0
+    ],
+    "ICPUSD": [
+      100.0,
+      0.0
+    ],
+    "SOLUSD": [
+      95.0,
+      5.0
+    ],
+    "FILUSD": [
+      100.0,
+      0.0
+    ],
+    "AXSUSD": [
+      100.0,
+      0.0
+    ],
+    "GRTUSD": [
+      100.0,
+      0.0
+    ],
+    "CHZUSD": [
+      100.0,
+      0.0
+    ],
+    "IMXUSD": [
+      100.0,
+      0.0
+    ]
+  },
+  "assets": {
+    "GOLD (Spot)": {
+      "asset": "GOLD (Spot)",
+      "category": "Commodity",
+      "bid": 4071.063,
+      "ask": 4071.303,
+      "change": -0.36,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "EUR/USD": {
+      "asset": "EUR/USD",
+      "category": "Forex",
+      "bid": 1.11391,
+      "ask": 1.11411,
+      "change": -0.79,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "GBP/USD": {
+      "asset": "GBP/USD",
+      "category": "Forex",
+      "bid": 1.33497,
+      "ask": 1.33535,
+      "change": -0.78,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "USD/JPY": {
+      "asset": "USD/JPY",
+      "category": "Forex",
+      "bid": 158.491,
+      "ask": 158.517,
+      "change": 0.64,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "BTC/USD": {
+      "asset": "BTC/USD",
+      "category": "Crypto",
+      "bid": 75830.24,
+      "ask": 75836.64,
+      "change": 0.1,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "DOW30 (US30)": {
+      "asset": "DOW30 (US30)",
+      "category": "Index",
+      "bid": 51318.3,
+      "ask": 51319.6,
+      "change": 0.07,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "SPX500 (US500)": {
+      "asset": "SPX500 (US500)",
+      "category": "Index",
+      "bid": 7383.13,
+      "ask": 7383.53,
+      "change": 0.74,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "NAS100 (USTEC)": {
+      "asset": "NAS100 (USTEC)",
+      "category": "Index",
+      "bid": 26990.49,
+      "ask": 26991.61,
+      "change": 1.77,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "SILVER (Spot)": {
+      "asset": "SILVER (Spot)",
+      "category": "Commodity",
+      "bid": 33.42,
+      "ask": 33.45,
+      "change": 0.45,
+      "date": "2026-11-08",
+      "source": "Commodity Desk"
+    },
+    "US OIL (WTI)": {
+      "asset": "US OIL (WTI)",
+      "category": "Commodity",
+      "bid": 71.85,
+      "ask": 71.89,
+      "change": -0.62,
+      "date": "2026-11-08",
+      "source": "Energy Exchange"
+    },
+    "SPX500 (S&P 500)": {
+      "asset": "SPX500 (S&P 500)",
+      "category": "Index",
+      "bid": 5919.08,
+      "ask": 5919.58,
+      "change": 0.31,
+      "date": "2026-11-08",
+      "source": "Finnhub (SPY Proxy)"
+    },
+    "NAS100 (Nasdaq)": {
+      "asset": "NAS100 (Nasdaq)",
+      "category": "Index",
+      "bid": 21126.42,
+      "ask": 21127.42,
+      "change": 1.4,
+      "date": "2026-11-08",
+      "source": "Finnhub (QQQ Proxy)"
+    },
+    "DOW30 (Dow Jones)": {
+      "asset": "DOW30 (Dow Jones)",
+      "category": "Index",
+      "bid": 43794.8,
+      "ask": 43796.8,
+      "change": -0.4,
+      "date": "2026-11-08",
+      "source": "Finnhub (DIA Proxy)"
+    }
+  },
+  "fx": {
+    "EUR/USD": {
+      "asset": "EUR/USD",
+      "category": "Forex",
+      "bid": 1.11391,
+      "ask": 1.11411,
+      "change": -0.79,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "GBP/USD": {
+      "asset": "GBP/USD",
+      "category": "Forex",
+      "bid": 1.33497,
+      "ask": 1.33535,
+      "change": -0.78,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    },
+    "USD/JPY": {
+      "asset": "USD/JPY",
+      "category": "Forex",
+      "bid": 158.491,
+      "ask": 158.517,
+      "change": 0.64,
+      "date": "2026-11-08",
+      "source": "MetaTrader 5 (Live)"
+    }
+  },
+  "rsi": {
+    "EUR/USD": 48.2,
+    "GBP/USD": 52.1,
+    "AUD/USD": 44.5,
+    "USD/JPY": 63.8,
+    "USD/CAD": 56.4,
+    "NZD/USD": 42.1,
+    "GOLD (Spot)": 64.5,
+    "SILVER (Spot)": 58.2,
+    "US OIL (WTI)": 49.0,
+    "SPX500 (S&P 500)": 59.5,
+    "NAS100 (Nasdaq)": 62.0,
+    "DOW30 (Dow Jones)": 54.1,
+    "BTC/USD": 68.2
+  },
+  "yield_spread": 0.38,
+  "yield_status": "FLAT (Caution)",
+  "setups": [
+    {
+      "asset": "NZD/USD",
+      "market": "Forex",
+      "score": -7.8,
+      "bias": "STRONG BEARISH",
+      "stars": 5,
+      "macro_score": -5,
+      "sentiment_score": -3.0,
+      "retail_long": 92.0,
+      "retail_short": 8.0,
+      "rsi": 42.1
+    },
+    {
+      "asset": "AUD/USD",
+      "market": "Forex",
+      "score": -6.7,
+      "bias": "STRONG BEARISH",
+      "stars": 5,
+      "macro_score": -5,
+      "sentiment_score": -2.0,
+      "retail_long": 72.0,
+      "retail_short": 28.0,
+      "rsi": 44.5
+    },
+    {
+      "asset": "USD/CAD",
+      "market": "Forex",
+      "score": 6.7,
+      "bias": "STRONG BULLISH",
+      "stars": 5,
+      "macro_score": 5,
+      "sentiment_score": 2.0,
+      "retail_long": 26.0,
+      "retail_short": 74.0,
+      "rsi": 56.4
+    },
+    {
+      "asset": "EUR/USD",
+      "market": "Forex",
+      "score": -6.0,
+      "bias": "STRONG BEARISH",
+      "stars": 5,
+      "macro_score": -3,
+      "sentiment_score": -3.0,
+      "retail_long": 85.0,
+      "retail_short": 15.0,
+      "rsi": 48.2
+    },
+    {
+      "asset": "BTC/USD",
+      "market": "Crypto",
+      "score": -5.7,
+      "bias": "STRONG BEARISH",
+      "stars": 5,
+      "macro_score": -3,
+      "sentiment_score": -2.0,
+      "retail_long": 74.0,
+      "retail_short": 26.0,
+      "rsi": 68.2
+    },
+    {
+      "asset": "GBP/AUD",
+      "market": "Forex",
+      "score": 5.1,
+      "bias": "STRONG BULLISH",
+      "stars": 5,
+      "macro_score": 2,
+      "sentiment_score": 3.0,
+      "retail_long": 14.0,
+      "retail_short": 86.0,
+      "rsi": 50.0
+    },
+    {
+      "asset": "AUD/JPY",
+      "market": "Forex",
+      "score": -4.7,
+      "bias": "BEARISH",
+      "stars": 4,
+      "macro_score": -4,
+      "sentiment_score": -1.0,
+      "retail_long": 63.0,
+      "retail_short": 37.0,
+      "rsi": 50.0
+    },
+    {
+      "asset": "GBP/USD",
+      "market": "Forex",
+      "score": -2.7,
+      "bias": "BEARISH",
+      "stars": 3,
+      "macro_score": -3,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 52.1
+    },
+    {
+      "asset": "NAS100 (Nasdaq)",
+      "market": "Index",
+      "score": -2.6,
+      "bias": "BEARISH",
+      "stars": 3,
+      "macro_score": -2,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 62.0
+    },
+    {
+      "asset": "SPX500 (S&P 500)",
+      "market": "Index",
+      "score": -1.8,
+      "bias": "NEUTRAL",
+      "stars": 2,
+      "macro_score": -2,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 59.5
+    },
+    {
+      "asset": "GBP/JPY",
+      "market": "Forex",
+      "score": -1.8,
+      "bias": "NEUTRAL",
+      "stars": 2,
+      "macro_score": -2,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 50.0
+    },
+    {
+      "asset": "EUR/JPY",
+      "market": "Forex",
+      "score": -1.8,
+      "bias": "NEUTRAL",
+      "stars": 2,
+      "macro_score": -2,
+      "sentiment_score": 0,
+      "retail_long": 57.0,
+      "retail_short": 43.0,
+      "rsi": 50.0
+    },
+    {
+      "asset": "GOLD (Spot)",
+      "market": "Commodity",
+      "score": -1.7,
+      "bias": "NEUTRAL",
+      "stars": 2,
+      "macro_score": -1,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 64.5
+    },
+    {
+      "asset": "USD/CHF",
+      "market": "Forex",
+      "score": -1.3,
+      "bias": "NEUTRAL",
+      "stars": 2,
+      "macro_score": 1,
+      "sentiment_score": -2.0,
+      "retail_long": 70.0,
+      "retail_short": 30.0,
+      "rsi": 50.0
+    },
+    {
+      "asset": "USD/JPY",
+      "market": "Forex",
+      "score": 0.1,
+      "bias": "NEUTRAL",
+      "stars": 1,
+      "macro_score": 1,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 63.8
+    },
+    {
+      "asset": "DOW30 (Dow Jones)",
+      "market": "Index",
+      "score": 0.0,
+      "bias": "NEUTRAL",
+      "stars": 1,
+      "macro_score": 0,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 54.1
+    },
+    {
+      "asset": "US OIL (WTI)",
+      "market": "Commodity",
+      "score": 0.0,
+      "bias": "NEUTRAL",
+      "stars": 1,
+      "macro_score": 0,
+      "sentiment_score": 0,
+      "retail_long": 50.0,
+      "retail_short": 50.0,
+      "rsi": 49.0
+    }
+  ],
+  "macro_matrix": {
+    "growth": [
+      {
+        "metric": "GDP Growth QoQ",
+        "actual": "3.40%",
+        "forecast": "3.20%",
+        "surprise": "+0.20%",
+        "date": "Oct 29",
+        "beat": true
+      },
+      {
+        "metric": "Manufacturing PMIS",
+        "actual": "55.5",
+        "forecast": "54.5",
+        "surprise": "+1.00",
+        "date": "Nov 02",
+        "beat": true
+      },
+      {
+        "metric": "Services PMIS",
+        "actual": "54.5",
+        "forecast": "54.8",
+        "surprise": "-0.30",
+        "date": "Nov 04",
+        "beat": false
+      },
+      {
+        "metric": "Retail Sales MoM",
+        "actual": "0.80%",
+        "forecast": "0.30%",
+        "surprise": "+0.50%",
+        "date": "Oct 15",
+        "beat": true
+      },
+      {
+        "metric": "Consumer Confidence",
+        "actual": "91.7",
+        "forecast": "81.2",
+        "surprise": "+10.50",
+        "date": "Oct 27",
+        "beat": true
+      }
+    ],
+    "inflation": [
+      {
+        "metric": "CPI YoY",
+        "actual": "3.7%",
+        "forecast": "3.6%",
+        "surprise": "+0.1%",
+        "date": "Oct 14",
+        "beat": true
+      },
+      {
+        "metric": "PPI YoY",
+        "actual": "6.30%",
+        "forecast": "5.30%",
+        "surprise": "+1.00%",
+        "date": "Oct 15",
+        "beat": true
+      },
+      {
+        "metric": "PCE YoY",
+        "actual": "3.10%",
+        "forecast": "3.10%",
+        "surprise": "0.00%",
+        "date": "Oct 28",
+        "beat": null
+      },
+      {
+        "metric": "2 Yr Yield (21 day SMA)",
+        "actual": "4.46%",
+        "forecast": "4.70%",
+        "surprise": "-0.24%",
+        "date": "The 2yr yield is falling (dovish)",
+        "beat": false
+      }
+    ],
+    "jobs": [
+      {
+        "metric": "Non-Farm Payroll",
+        "actual": "165k",
+        "forecast": "65k",
+        "surprise": "+100k",
+        "date": "Nov 06",
+        "beat": true
+      },
+      {
+        "metric": "Unemployment Rate %",
+        "actual": "4.10%",
+        "forecast": "4.20%",
+        "surprise": "-0.10%",
+        "date": "Nov 06",
+        "beat": true
+      },
+      {
+        "metric": "Weekly Jobless Claims",
+        "actual": "189k",
+        "forecast": "196k",
+        "surprise": "-7k",
+        "date": "Nov 05",
+        "beat": true
+      },
+      {
+        "metric": "ADP Employment Change",
+        "actual": "86k",
+        "forecast": "67k",
+        "surprise": "+19k",
+        "date": "Nov 04",
+        "beat": true
+      },
+      {
+        "metric": "JOLTS Job Openings",
+        "actual": "7.52M",
+        "forecast": "7.15M",
+        "surprise": "+0.37M",
+        "date": "Nov 03",
+        "beat": true
+      }
+    ],
+    "y2_current": 4.46,
+    "y2_sma21": 4.7,
+    "y2_is_falling": true
+  },
+  "scorecard": {
+    "symbol": "GOLD",
+    "symbol_clean": "GOLD",
+    "overall_rating": "Very Bearish",
+    "overall_score": -13,
+    "technical_score": -3,
+    "sentiment_score": -1,
+    "macro_score": -9,
+    "timestamp_str": "Nov 08, 2026, 03:02:13 PM UTC Time",
+    "crowd_sentiment": {
+      "signal": "Bearish",
+      "bullish_pct": 85.72,
+      "bearish_pct": 14.28
+    },
+    "score_history": [
+      {
+        "date": "Sep 13",
+        "score": -2
+      },
+      {
+        "date": "Sep 19",
+        "score": -4
+      },
+      {
+        "date": "Sep 25",
+        "score": -6
+      },
+      {
+        "date": "Oct 1",
+        "score": -8
+      },
+      {
+        "date": "Oct 7",
+        "score": -5
+      },
+      {
+        "date": "Oct 13",
+        "score": -2
+      },
+      {
+        "date": "Oct 19",
+        "score": 1
+      },
+      {
+        "date": "Oct 25",
+        "score": 3
+      },
+      {
+        "date": "Oct 31",
+        "score": -5
+      },
+      {
+        "date": "Nov 6",
+        "score": -13
+      }
+    ],
+    "tables": {
+      "technicals": {
+        "title": "Technicals",
+        "badge": "Very Bearish",
+        "rows": [
+          {
+            "metric": "4H / Daily Chart Trend",
+            "status": "Bearish"
+          },
+          {
+            "metric": "Seasonality Trend",
+            "status": "Bearish"
+          }
+        ]
+      },
+      "institutional": {
+        "title": "Institutional activity",
+        "badge": "Neutral",
+        "rows": [
+          {
+            "metric": "COT - Net Positioning",
+            "status": "Bullish",
+            "long_pct": "62.76%",
+            "short_pct": "37.24%",
+            "change_pct": "0.52%",
+            "date": "2026-11-03T00:00:00.000*"
+          },
+          {
+            "metric": "COT - Latest Change",
+            "status": "Bearish",
+            "long_pct": "\u2014",
+            "short_pct": "\u2014",
+            "change_pct": "-139",
+            "date": "2026-11-03T00:00:00.000*"
+          }
+        ]
+      },
+      "growth": {
+        "title": "Economic growth",
+        "badge": "Very Bearish",
+        "rows": [
+          {
+            "metric": "GDP Growth QoQ",
+            "status": "Bearish",
+            "actual": "3.40%",
+            "forecast": "3.20%",
+            "surprise": "+0.20%",
+            "date": "Oct 29"
+          },
+          {
+            "metric": "Manufacturing PMIS",
+            "status": "Bearish",
+            "actual": "55.5",
+            "forecast": "54.5",
+            "surprise": "+1.00",
+            "date": "Nov 02"
+          },
+          {
+            "metric": "Services PMIS",
+            "status": "Bullish",
+            "actual": "54.5",
+            "forecast": "54.8",
+            "surprise": "-0.30",
+            "date": "Nov 04"
+          },
+          {
+            "metric": "Retail Sales MoM",
+            "status": "Bearish",
+            "actual": "0.80%",
+            "forecast": "0.30%",
+            "surprise": "+0.50%",
+            "date": "Oct 15"
+          },
+          {
+            "metric": "Consumer Confidence",
+            "status": "Bearish",
+            "actual": "91.7",
+            "forecast": "81.2",
+            "surprise": "+10.50",
+            "date": "Oct 27"
+          }
+        ]
+      },
+      "inflation": {
+        "title": "Inflation",
+        "badge": "Bearish",
+        "rows": [
+          {
+            "metric": "CPI YoY",
+            "status": "Bearish",
+            "actual": "3.7%",
+            "forecast": "3.6%",
+            "surprise": "+0.1%",
+            "date": "Oct 14"
+          },
+          {
+            "metric": "PPI YoY",
+            "status": "Bearish",
+            "actual": "6.30%",
+            "forecast": "5.30%",
+            "surprise": "+1.00%",
+            "date": "Oct 15"
+          },
+          {
+            "metric": "PCE YoY",
+            "status": "Neutral",
+            "actual": "3.10%",
+            "forecast": "3.10%",
+            "surprise": "0.00%",
+            "date": "Oct 28"
+          },
+          {
+            "metric": "2 Yr Yield (21 day SMA)",
+            "status": "Bullish",
+            "actual": "4.46%",
+            "forecast": "4.70%",
+            "surprise": "-0.24%",
+            "date": "The 2yr yield is falling (dovish)"
+          }
+        ]
+      },
+      "jobs": {
+        "title": "Jobs market",
+        "badge": "Very Bearish",
+        "rows": [
+          {
+            "metric": "Non-Farm Payroll",
+            "status": "Bearish",
+            "actual": "165k",
+            "forecast": "65k",
+            "surprise": "+100k",
+            "date": "Nov 06"
+          },
+          {
+            "metric": "Unemployment Rate %",
+            "status": "Bearish",
+            "actual": "4.10%",
+            "forecast": "4.20%",
+            "surprise": "-0.10%",
+            "date": "Nov 06"
+          },
+          {
+            "metric": "Weekly Jobless Claims",
+            "status": "Bearish",
+            "actual": "189k",
+            "forecast": "196k",
+            "surprise": "-7k",
+            "date": "Nov 05"
+          },
+          {
+            "metric": "ADP Employment Change",
+            "status": "Bearish",
+            "actual": "86k",
+            "forecast": "67k",
+            "surprise": "+19k",
+            "date": "Nov 04"
+          },
+          {
+            "metric": "JOLTS Job Openings",
+            "status": "Bearish",
+            "actual": "7.52M",
+            "forecast": "7.15M",
+            "surprise": "+0.37M",
+            "date": "Nov 03"
+          }
+        ]
+      }
+    }
+  },
+  "_cached_at": 1794146533.4077125,
+  "_sync_duration": 11.2,
+  "_last_sync_str": "2026-11-08 15:02:13"
+}

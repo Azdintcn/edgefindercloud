@@ -1,0 +1,77 @@
+{
+  "_cached_at": 1794066794.7550428,
+  "records": [
+    {
+      "market": "AUST. DOLLAR (AUD)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -129457,
+      "longs": 101093,
+      "shorts": 230550,
+      "change": 36,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "NASDAQ 100 (NDX)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": 23432,
+      "longs": 78757,
+      "shorts": 55325,
+      "change": 10834,
+      "signal": "BULLISH"
+    },
+    {
+      "market": "GOLD (XAU)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": 418,
+      "longs": 1028,
+      "shorts": 610,
+      "change": -139,
+      "signal": "BULLISH"
+    },
+    {
+      "market": "S&P 500 (SPX)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -129414,
+      "longs": 229322,
+      "shorts": 358736,
+      "change": 13398,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "EURO (EUR)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -2487,
+      "longs": 9138,
+      "shorts": 11625,
+      "change": -1843,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "BRITISH POUND (GBP)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -2487,
+      "longs": 9138,
+      "shorts": 11625,
+      "change": -1843,
+      "signal": "BEARISH"
+    },
+    {
+      "market": "JAPANESE YEN (JPY)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": 1872,
+      "longs": 4645,
+      "shorts": 2773,
+      "change": -22,
+      "signal": "BULLISH"
+    },
+    {
+      "market": "SWISS FRANC (CHF)",
+      "report_date": "2026-11-03T00:00:00.000",
+      "net_speculators": -16589,
+      "longs": 29482,
+      "shorts": 46071,
+      "change": 3228,
+      "signal": "BEARISH"
+    }
+  ]
+}
